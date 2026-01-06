@@ -39,4 +39,4 @@ Diferente do HTML comum, o uso do MJML neste projeto demonstra o conhecimento em
 
 ## 🔗 Demonstração
 Você pode visualizar as versões estáticas dos e-mails diretamente aqui no repositório:
-* [Visualizar E-mail de Boas-vindas](./https://diogo-netto.github.io/Email-marketing/)
+* [Visualizar E-mail de Boas-vindas](https://diogo-netto.github.io/Email-marketing/)
